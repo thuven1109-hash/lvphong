@@ -20,7 +20,7 @@ export const IntroScreen: React.FC<IntroScreenProps> = ({ onStart, onToggleSideb
   const [selectedAvatar, setSelectedAvatar] = React.useState(CHAR_AVATAR);
 
   const AVATAR_OPTIONS = [
-    "https://lh3.googleusercontent.com/u/0/d/1AA87BlKI_DBoQgyPs7SPuWLhF0LVMkYq"
+    "https://lh3.googleusercontent.com/u/0/d/1E-YeJd8JWdaEPT6Ps2zrL6Dt1gfC5IEI"
   ];
 
   const handleSubmit = (e: React.FormEvent) => {
@@ -29,10 +29,10 @@ export const IntroScreen: React.FC<IntroScreenProps> = ({ onStart, onToggleSideb
     
     onStart({
       name: name.trim(),
-      appearance: appearance.trim() || "Sở hữu nhan sắc mặn mà, thân hình cực kỳ xuất sắc với vóc dáng nuột nà, làn da trắng ngần khiến kẻ khác khó lòng rời mắt.",
+      appearance: appearance.trim() || "Nhan sắc nổi bật, đường nét thanh tú nhưng quyến rũ, mong manh, làn da trắng sứ và khí chất đài các của một tiểu thư nhà giàu.",
       personality: personality.trim(),
-      age: 24,
-      background: "Một nhân viên văn phòng có ngoại hình rực rỡ, sắc nước hương trời. Từng là hoa khôi thời đại học trước khi kết hôn với Duy."
+      age: 20,
+      background: "Là một cô gái Sài Gòn sinh ra trong nhung lụa, gia đình giàu có, bản tính ngây thơ, dịu dàng và có lòng nhân hậu đặc biệt yêu thương động vật."
     }, selectedAvatar);
   };
 
