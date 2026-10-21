@@ -1,14 +1,14 @@
 {
-  "name": "Trần Quốc Duy & Nguyễn Hoàng Long",
-  "short_name": "Duy & Long",
+  "name": "Lâm Vĩnh Phong",
+  "short_name": "Vĩnh Phong",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#FFF0F5",
   "theme_color": "#ff99cc",
-  "description": "Một là em ly dị hắn, hai là anh chết trước mặt em! Em chọn đi!",
+  "description": "Người yêu qua mạng của tôi là tên buôn người hàng loạt",
   "icons": [
     {
-      "src": "https://lh3.googleusercontent.com/u/0/d/1AA87BlKI_DBoQgyPs7SPuWLhF0LVMkYq",
+      "src": "https://lh3.googleusercontent.com/u/0/d/1E-YeJd8JWdaEPT6Ps2zrL6Dt1gfC5IEI",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
