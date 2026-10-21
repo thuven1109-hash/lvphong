@@ -1,0 +1,17 @@
+{
+  "name": "Trần Quốc Duy & Nguyễn Hoàng Long",
+  "short_name": "Duy & Long",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF0F5",
+  "theme_color": "#ff99cc",
+  "description": "Một là em ly dị hắn, hai là anh chết trước mặt em! Em chọn đi!",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/u/0/d/1AA87BlKI_DBoQgyPs7SPuWLhF0LVMkYq",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
